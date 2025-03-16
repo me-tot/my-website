@@ -1,0 +1,1 @@
+// Example sports news data
